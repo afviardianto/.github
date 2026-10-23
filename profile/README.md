@@ -3,8 +3,13 @@
 </div>
 
 # 💫 About Me:
-<br>👋 Hello, I’m Afvi Ardianto!<br>🚀 I am a Software Developer | Lifelong Learner.
+###👋 Hello, I’m Afvi Ardianto!
+### 🚀 I am a Software Developer | Lifelong Learner.
 
+In the digital realm, I work as a developer who thrives on crafting lines of code into robust backend and frontend systems, as well as interactive applications. I believe that good code does more than just function—it must also be maintainable and capable of handling surges in user traffic.
+When I’m not writing code, I’m usually keeping up with the latest tech trends, diving into the concepts behind distributed systems, or occasionally exploring the potential of artificial intelligence (AI) in today’s world.
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afviardianto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afviardianto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afvi.ardianto@gmail.com) 
