@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-###👋 Hello, I’m Afvi Ardianto!
+### 👋 Hello, I’m Afvi Ardianto!
 ### 🚀 I am a Software Developer | Lifelong Learner.
 
 In the digital realm, I work as a developer who thrives on crafting lines of code into robust backend and frontend systems, as well as interactive applications. I believe that good code does more than just function—it must also be maintainable and capable of handling surges in user traffic.
