@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="bluesky" />
   </a>
   <a href="https://behance.net/afviardianto" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" />
   </a>
 </p>
 
