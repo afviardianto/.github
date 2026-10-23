@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 <p align="left">
   <a href="https://bsky.app/profile/afviardianto.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/bluesky-0285FF" alt="bluesky" />
+    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="bluesky" />
   </a>
   <a href="https://behance.net/afviardianto" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff" alt="Behance" />
